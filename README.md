@@ -45,4 +45,10 @@
 
 <br/>
 
+
+[linkedin]: https://www.linkedin.com/in/roma-fek
+
+[telegram]: https://t.me/RomaFek
+[instagram]: https://www.instagram.com/fekfeka
+[git]: https://github.com/RomaFek
 <p align="left"> <img src="https://i.pinimg.com/originals/81/6d/ee/816dee91ba4bb48023875e12aedddd9b.gif" alt="romafek" /> </p>
