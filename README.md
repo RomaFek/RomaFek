@@ -42,15 +42,7 @@
 
 
 ---
-### GitHub cтатистика:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomaFek&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/RomaFek)
 
-[linkedin]: https://www.linkedin.com/in/roma-fek
-[telegram]: https://t.me/RomaFek
-[instagram]: https://www.instagram.com/fekfeka
-[git]: https://github.com/RomaFek
-
-<br/>
 <br/>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/81/6d/ee/816dee91ba4bb48023875e12aedddd9b.gif" alt="romafek" /> </p>
