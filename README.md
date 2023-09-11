@@ -1,15 +1,11 @@
 ### Привет! Я - Рома, Frontend разработчик!
 
 - 👀 Коротко обо мне: Веб-разработчик с любовью к активному образу жизни и природе.
-- :space_invader: PERN stack
-- 📫 Как связаться: roma.fek.front@gmail.com
+- 📫 Как связаться: roma.fek.dev@gmail.com
 
 ---
-### Контакты:
-
-[<img align="left" alt="RomaFek | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+### Мой телеграм:
 [<img align="left" alt="RomaFek | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="RomaFek | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br/>
 <br/>
@@ -35,8 +31,8 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3, Sass
-- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
+- **Фронтенд**: JavaScript, TypeScript, React, Redux (Thunk, Toolkit), NextJS, HTML5, CSS3
+- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, Docker, REST
 
@@ -46,9 +42,6 @@
 <br/>
 
 
-[linkedin]: https://www.linkedin.com/in/roma-fek
-
 [telegram]: https://t.me/RomaFek
-[instagram]: https://www.instagram.com/fekfeka
 [git]: https://github.com/RomaFek
 <p align="left"> <img src="https://i.pinimg.com/originals/81/6d/ee/816dee91ba4bb48023875e12aedddd9b.gif" alt="romafek" /> </p>
