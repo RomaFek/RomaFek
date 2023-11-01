@@ -34,7 +34,7 @@
 - **Фронтенд**: JavaScript, TypeScript, React, Redux , NextJS, Angular, RxJS, HTML5, CSS3
 - **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
-- **A также**: Karma, Jest, Docker, REST
+- **A также**: Jasmine, Jest, Docker, REST
 
 
 ---
